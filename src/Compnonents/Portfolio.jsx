@@ -8,7 +8,7 @@ import pandaimg from "../assets/img/1 (1).png"
 const Portfolio = () => {
   return (
     <div>
-        <div className=' bg-gradient-to-t bg-transparent from-green-900 to-green-700  h-1 mt-28'></div>
+        <div className=' bg-gradient-to-t bg-transparent from-green-900 to-green-700  h-1 mt-52'></div>
       <div className='mx-36 my-24 flex justify-center items-center'>
         <img className='items center' src={Port} alt="" />
       </div>

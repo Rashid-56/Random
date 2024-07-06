@@ -8,10 +8,10 @@ import frame3373 from "../assets/img/Frame 3373.png"
 const Process = () => {
   return (
     <div>
-      <div className='mx-36 my-24 flex justify-center items-center'>
+      <div className='md:mx-36 mx-14 my-24 flex justify-center items-center'>
         <img src={pocess} alt="" />
       </div>
-      <div className='grid md:grid-cols-2 grid-cols-1 mx-36 md:gap-x-20  gap-y-20 '>
+      <div className='grid md:grid-cols-2 grid-cols-1 md:mx-36 mx-20 md:gap-x-20  md:gap-y-20 gap-y-10'>
             <div className='grid col-span-2 md:col-span-1' ><img src={frame30} alt="" /></div>
             <div className='grid col-span-2 md:col-span-1'><img src={frame337} alt="" /></div>
             <div className='grid col-span-2 md:col-span-1'><img src={frame3371} alt="" /></div>
